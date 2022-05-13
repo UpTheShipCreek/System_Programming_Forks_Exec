@@ -1,5 +1,3 @@
-sdi1700113 Panagiotopoulos Georgios
-
 ------Compilation kai Klhsh------
 $ make
 $ ./sniffer
